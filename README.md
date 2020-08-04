@@ -1,6 +1,8 @@
-## Study Projects: 
-# Machine Learning (ML) &amp; Natural Language Processing (NLP)
+## AI Study Projects: 
 
+ # Machine Learning (ML) &amp; Natural Language Processing (NLP)
+
+ <img src="https://github.com/BenjaminBrodwolf/ML_NLP/blob/master/repoImage.png" width="450" title="AI, ML, NLP">
 
 ## Machine Learning
 * [Assignment 1](/MachineLearning/ML_Assignment_1/): Estimate real estate prices using **linear regression** with **multiple independent variables**. (MatLab-Project)
